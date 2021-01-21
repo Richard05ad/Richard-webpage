@@ -1,0 +1,19 @@
+<html>
+<head>
+       <tiltle>activity 2</title>
+</head>
+
+<body bgcolor=''black">
+<font color=''white size=''6''><center>''Love isn't something
+<br>
+you find>.</center>
+<font color=''yellow'' size=''6<center> love is something
+<br>that finds you.''</center>
+<p><font color=''pink'' size=''5''><center><i> -Loretta Young </i></p></center>
+<p><font color=''white'' size=''8''><b> Love's gift cannot be given,
+<br> it waits to be accepted.''</b></center></br><p>
+<p>
+<font color=''white'' size=''5''><center><b> -Rabindranath Tagore </b></p></center>
+
+</body>
+</html>
